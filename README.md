@@ -17,10 +17,13 @@ spring boot + dubbo + mybatis
 如： master-fanyu-letvOrder  qa-fanyu-ydcFlow
 
 #参加培训的人员
+
 钱锦锋 张泽鹏 孔繁琳 郝旺东 刘强 翟海波
 
 #主要任务
+
 熟悉基于dubbo微服务下的编程开发
 
 #时间节点
+
 年前
