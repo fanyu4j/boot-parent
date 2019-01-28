@@ -11,6 +11,7 @@ spring boot + dubbo + mybatis
 * git
 
 #练习过程中的分支策略及规范
+
 拉开发分支 需遵循命名规范
 分支命名规范：原分支名-姓名-功能
 如： master-fanyu-letvOrder  qa-fanyu-ydcFlow
