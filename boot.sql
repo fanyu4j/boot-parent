@@ -23,7 +23,7 @@ CREATE TABLE `order` (
   `ordertime` TIMESTAMP ,
   `user_id` INT(11) ,
   PRIMARY KEY (`id`)
-)
+) ENGINE=InnoDB AUTO_INCREMENT=2 DEFAULT CHARSET=utf8mb4;
 
 -- ----------------------------
 -- Records of t_user
